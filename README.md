@@ -1,2 +1,2 @@
-# test
-trials and errors
+#Functions
+Different Functions that I have created or used to help me in Python
