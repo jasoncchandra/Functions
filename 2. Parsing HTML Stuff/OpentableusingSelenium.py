@@ -1,0 +1,3 @@
+#To use the Chrome webdriver, you need to have the ChromeDriver executable installed and added to your system's PATH. You can download the appropriate version of ChromeDriver for your Chrome browser from the official website: https://sites.google.com/chromium.org/driver/
+#Once you've downloaded ChromeDriver, make sure to specify the path to the executable in the webdriver.Chrome() call in the code.
+#follow this tutorial - https://www.swtestacademy.com/install-chrome-driver-on-mac/
