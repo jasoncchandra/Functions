@@ -1,0 +1,7 @@
+#pip install yfinance
+import yfinance as yf
+
+start = '2022-12-31'
+end = '2023-06-30'
+facebook = yf.download('MSFT', start=start, end=end)
+print(facebook)
